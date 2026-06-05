@@ -3,6 +3,7 @@ src/deprecated
 data/sample_sampler_data/*
 data/sample_training_data/*
 models/sample_vae_model/*
+prod_*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
